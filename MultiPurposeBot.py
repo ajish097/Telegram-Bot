@@ -1,5 +1,5 @@
 from flask import Flask
-from flask import request,jsonify
+from flask import request
 import requests
 from crypto_symbol import crypto_list
 #include this if you want to host on http
